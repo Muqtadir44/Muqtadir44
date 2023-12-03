@@ -1,9 +1,8 @@
-<h1> Hi,</h1>
-<h1>I’m Abdul Muqtadir</h1>
-<h2 align="center">
-  Welcome to Abdul Muqtadir World! 👋
+
+<h1 align="center">
+  Welcome to Abdul Muqtadir World! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h1>
 - 👀 I’m interested in Backend | Front-end | Full Stack Web Development...
 - 🌱 I’m currently learning Laravel | Laravel Breeze | Laravel jetstream | REST APIs ...
 - 💞️ I’m looking to collaborate on PHP and Laravel-based projects ...
