@@ -30,7 +30,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css3,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
   </a>
 </p>
 
