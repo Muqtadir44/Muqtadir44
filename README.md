@@ -54,7 +54,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,illustrator,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,illustrator,vscode,postman,slack" />
   </a>
 </p>
 
