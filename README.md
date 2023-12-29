@@ -33,7 +33,7 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
   </a>
 </p>
 
@@ -54,7 +54,7 @@
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,illustrator,vscode,postman,slack" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,illustrator,vscode,postman" />
   </a>
 </p>
 
