@@ -25,14 +25,14 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" />
+    <img src="https://skillicons.dev/icons?i=cs,php,html,css,js,jquery" />
   </a>
 </p>
 
 - Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,yii2,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap" />
   </a>
 </p>
 
