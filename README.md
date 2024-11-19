@@ -20,19 +20,19 @@
 </p>
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 
-- Backend
+- Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" />
   </a>
 </p>
 
-- Frontend
+- Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=laravel,yii2,bootstrap" />
   </a>
 </p>
 
