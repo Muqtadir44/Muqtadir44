@@ -24,7 +24,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,html,css,js,jquery" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" />
   </a>
 </p>
 
