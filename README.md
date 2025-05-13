@@ -2,61 +2,69 @@
   Welcome to Abdul Muqtadir's World! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=Muqtadir44&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul Muqtadir" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muqtadir44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 👀 I’m interested in Backend | Front-end | Full Stack Web Development...
-- 🌱 I’m working with Laravel and exploring Laravel etc ...
-- 💞️ I’m looking to collaborate on PHP and Laravel-based projects ...
-- 📫 How to reach me kalhoromuqtadir125@gmail.com...
--------------------------------------------------------------
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdulmuqtadirkalhoro125/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AbdulMuqtadir" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22808498/abdul-muqtadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muqtadir" height="30" width="40" /></a>
-<a href="https://www.instagram.com/muqtadir_mk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
-</p>
+---
 
-<br>
-<h3 align="left">Skills:</h3>
+### 👋 About Me
 
-- Languages
+- 👨‍💻 Passionate about **Backend, Front-end & Full Stack Web Development**
+- 🚀 Currently working with **Laravel** and constantly exploring new tools & technologies
+- 🤝 Open to collaborate on **PHP / Laravel-based projects**
+- 📫 Reach me at: **kalhoromuqtadir125@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" />
+  <a href="https://www.linkedin.com/in/abdulmuqtadirkalhoro125/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22808498/abdul-muqtadir" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/muqtadir_mk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-- Frameworks
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react" />
-  </a>
+---
+
+### 🛠️ Skills & Tools
+
+#### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" alt="Languages" />
 </p>
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
+#### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react" alt="Frameworks" />
 </p>
 
-<!-- - Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>-->
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,illustrator,vscode,postman" />
-  </a>
+#### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
 </p>
 
-<br/>
+<!-- Optional Section: Uncomment if you add cloud skills
+#### ☁️ Cloud Services
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare" alt="Cloud" />
+</p>
+-->
 
+#### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,illustrator" alt="Tools" />
+</p>
 
+---
 
+<p align="center">
+  Thank you for visiting my profile! Let's build something amazing together 🚀
+</p>
