@@ -51,12 +51,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
 </p>
 
-<!-- Optional Section: Uncomment if you add cloud skills
-#### ☁️ Cloud Services
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare" alt="Cloud" />
-</p>
--->
+
 
 #### 🔧 Tools & Platforms
 <p>
