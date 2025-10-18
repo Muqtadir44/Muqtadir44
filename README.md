@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Welcome to Abdul Muqtadir's World! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -56,8 +57,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,illustrator" alt="Tools" />
 </p>
 
+
 ---
 
+
 <p align="center">
-  Thank you for visiting my profile! Let's build something amazing together 🚀
+  Thank you for visiting my profile! Let's build something amazing together... 🚀
 </p>
