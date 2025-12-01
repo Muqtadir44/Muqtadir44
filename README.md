@@ -44,7 +44,7 @@
 
 #### ⚙️ Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react,inertia" alt="Frameworks" />
 </p>
 
 #### 🗄️ Database
@@ -54,7 +54,7 @@
 
 #### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,illustrator" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,windows" alt="Tools" />
 </p>
 
 
