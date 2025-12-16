@@ -1,7 +1,10 @@
 <h1 align="center">
-  Welcome to Abdul Muqtadir's World! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Abdul Muqtadir 👋
 </h1>
+
+<p align="center">
+  <b>Full Stack Web Developer | PHP Laravel </b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muqtadir44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,16 +12,18 @@
 
 ---
 
-### 👋 About Me
+## 🚀 About Me
 
-- 👨‍💻 Passionate about **Backend, Front-end & Full Stack Web Development**
-- 🚀 Currently working with **Laravel** and constantly exploring new tools & technologies
-- 🤝 Open to collaborate on **PHP / Laravel-based projects**
-- 📫 Reach me at: **kalhoromuqtadir125@gmail.com**
+I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-based backend systems** and modern front-end integrations. I enjoy building scalable web applications, clean architectures, and real-world products that solve practical problems.
+
+* 💻 Core focus: **Laravel, PHP, Full Stack Web Development**
+* 🧠 Interested in system design, SaaS products, and automation
+* 🤝 Open to collaborating on **Laravel / PHP / Full Stack projects**
+* 📬 Email: **[kalhoromuqtadir125@gmail.com](mailto:kalhoromuqtadir125@gmail.com)**
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdulmuqtadirkalhoro125/" target="_blank">
@@ -34,30 +39,54 @@
 
 ---
 
-### 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-#### 👨‍💻 Languages
+### 👨‍💻 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,js,jquery" />
 </p>
 
-#### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react,inertia" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,react,inertia" />
 </p>
 
-#### 🗄️ Database
+### 🗄️ Database
+
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-#### 🔧 Tools & Platforms
+### 🔧 Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,windows" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,windows" />
+</p>
+
+---
+
+## 📌 What I’m Working On
+
+* Building **Laravel + React+Vue/Inertia** based applications
+* Exploring **SaaS architectures** and multi-tenant systems
+* Improving backend performance, security, and automation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muqtadir44&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muqtadir44&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  Thank you for visiting my profile! Let's build something amazing together... 🚀
+  🚀 <b>Always learning. Always building.</b>
 </p>
