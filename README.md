@@ -82,7 +82,8 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muqtadir44&theme=tokyonight" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muqtadir44&theme=tokyonight" /> -->
+  <img src="https://streak-stats.demolab.com?user=Muqtadir44&theme=tokyonight" />
 </p>
 
 ---
