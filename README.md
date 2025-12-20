@@ -11,7 +11,6 @@
 </p>
 
 ---
-
 ## 🚀 About Me
 
 I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-based backend systems** and modern front-end integrations. I enjoy building scalable web applications, clean architectures, and real-world products that solve practical problems.
@@ -22,7 +21,6 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 * 📬 Email: **[kalhoromuqtadir125@gmail.com](mailto:kalhoromuqtadir125@gmail.com)**
 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -87,7 +85,6 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 </p>
 
 ---
-
 <p align="center">
   🚀 <b>Always learning. Always building.</b>
 </p>
