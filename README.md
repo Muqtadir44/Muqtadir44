@@ -70,9 +70,7 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 * Building **Laravel + React+Vue/Inertia** based applications
 * Exploring **SaaS architectures** and multi-tenant systems
 * Improving backend performance, security, and automation
-
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
