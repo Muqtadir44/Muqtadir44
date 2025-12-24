@@ -71,6 +71,7 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 * Exploring **SaaS architectures** and multi-tenant systems
 * Improving backend performance, security, and automation
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -83,6 +84,7 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 </p>
 
 ---
+
 <p align="center">
   🚀 <b>Always learning. Always building.</b>
 </p>
