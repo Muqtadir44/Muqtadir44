@@ -64,7 +64,6 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 </p>
 
 ---
-
 ## 📌 What I’m Working On
 
 * Building **Laravel + React+Vue/Inertia** based applications
