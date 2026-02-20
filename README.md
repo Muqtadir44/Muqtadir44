@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=Muqtadir44&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 ---
-## 🚀 About Me
-
 <a href="https://app.daily.dev/muqtadir44"><img src="https://api.daily.dev/devcards/v2/pm7kAywCm9M223Ks5IAhh.png?type=wide&r=n1g" width="652" alt="Muqtadir44's Dev Card"/></a>
 
 I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-based backend systems** and modern front-end integrations. I enjoy building scalable web applications, clean architectures, and real-world products that solve practical problems.
