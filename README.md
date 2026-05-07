@@ -14,9 +14,10 @@
 <div align="center">
 <a href="https://app.daily.dev/muqtadir44"><img src="https://api.daily.dev/devcards/v2/pm7kAywCm9M223Ks5IAhh.png?type=wide&r=n1g" width="652" alt="Muqtadir44's Dev Card"/></a>
 </div>
+
 ---
 
-I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-based backend systems** and modern front-end integrations. I enjoy building scalable web applications, clean architectures, and real-world products that solve practical problems.
+I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-based backend systems** and modern front-end integrations. I enjoy building scalable web applications, clean archite[...]
 
 * 💻 Core focus: **Laravel, PHP, Full Stack Web Development**
 * 🧠 Interested in system design, SaaS products, and automation
@@ -24,17 +25,18 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 * 📬 Email: **[kalhoromuqtadir125@gmail.com](mailto:kalhoromuqtadir125@gmail.com)**
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulmuqtadirkalhoro125/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/abdulmuqtadirkalhoro125/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/22808498/abdul-muqtadir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/22808498/abdul-muqtadir" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/stackoverflow/F58025" alt="Stack Overflow" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/muqtadir_mk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/muqtadir_mk/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
@@ -67,11 +69,13 @@ I am a passionate **Full Stack Web Developer** with a strong focus on **Laravel-
 </p>
 
 ---
+
 ## 📌 What I’m Working On
 
 * Building **Laravel + React+Vue/Inertia** based applications
 * Exploring **SaaS architectures** and multi-tenant systems
 * Improving backend performance, security, and automation
+
 ---
 
 ## 📊 GitHub Stats
